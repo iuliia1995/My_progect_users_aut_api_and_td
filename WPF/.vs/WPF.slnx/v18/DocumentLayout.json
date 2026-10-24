@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\06.09.26\\WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF9B20E-F647-407C-8C9B-AA9E62A5ED80}|WPF\\WPF.csproj|d:\\06.09.26\\wpf\\wpf\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DF9B20E-F647-407C-8C9B-AA9E62A5ED80}|WPF\\WPF.csproj|solutionrelative:wpf\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF9B20E-F647-407C-8C9B-AA9E62A5ED80}|WPF\\WPF.csproj|d:\\06.09.26\\wpf\\wpf\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF9B20E-F647-407C-8C9B-AA9E62A5ED80}|WPF\\WPF.csproj|solutionrelative:wpf\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF9B20E-F647-407C-8C9B-AA9E62A5ED80}|WPF\\WPF.csproj|d:\\06.09.26\\wpf\\wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DF9B20E-F647-407C-8C9B-AA9E62A5ED80}|WPF\\WPF.csproj|solutionrelative:wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF9B20E-F647-407C-8C9B-AA9E62A5ED80}|WPF\\WPF.csproj|d:\\06.09.26\\wpf\\wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3DF9B20E-F647-407C-8C9B-AA9E62A5ED80}|WPF\\WPF.csproj|solutionrelative:wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\06.09.26\\WPF\\WPF\\MainPage.xaml",
+              "RelativeDocumentMoniker": "WPF\\MainPage.xaml",
+              "ToolTip": "D:\\06.09.26\\WPF\\WPF\\MainPage.xaml",
+              "RelativeToolTip": "WPF\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-24T16:55:48.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\06.09.26\\WPF\\WPF\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "WPF\\MainPage.xaml.cs",
+              "ToolTip": "D:\\06.09.26\\WPF\\WPF\\MainPage.xaml.cs",
+              "RelativeToolTip": "WPF\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T17:10:51.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\06.09.26\\WPF\\WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF\\MainWindow.xaml",
+              "ToolTip": "D:\\06.09.26\\WPF\\WPF\\MainWindow.xaml",
+              "RelativeToolTip": "WPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-24T16:43:39.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\06.09.26\\WPF\\WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\06.09.26\\WPF\\WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T16:43:37.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

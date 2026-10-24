@@ -1,0 +1,21 @@
+﻿<Window x:Class="WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="0,97,0,97">
+            <TextBlock Text="Notes_Project" Width="75" />
+            <TextBlock Text="Авторизация" Width="72" />
+            <TextBlock Text="Логин:" Width="40"/>
+            <TextBox x:Name="loginTextBox" Width="200"/>
+            <TextBlock Text="Пароль:" Width="45"/>
+                        <TextBox x:Name="passwordTextBox" Width="200" Margin="0,5,0,20"/>
+            <Button x:Name="LoginButton" Content="Войти" Width="100" Margin="0,0,0,10" Click="LoginButton_Click"/>
+            <Button x:Name="LocalLoginButton" Content="Войти без аккаунта" Width="150" Click="LocalLoginButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
